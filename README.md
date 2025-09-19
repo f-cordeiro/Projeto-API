@@ -12,3 +12,8 @@
 **Negrito**
 
 [Texto do link](https://youtu.be/DqTITcMq68k?feature=shared)
+
+``` python
+def teste():
+    print("teste")
+```
